@@ -91,6 +91,9 @@
     .footer-body a {
         font-size: 22px;
     }
+    .footer-body-elearning a {
+      font-size: 22px;
+  }
     .nav-link, .dropdown-item{
         font-size: 21px;
     }
