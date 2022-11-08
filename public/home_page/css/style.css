@@ -858,3 +858,8 @@ p .tanggal {
     object-fit: cover;
 }
 
+.gambar-divisi-page {
+    width: 240px;
+    height: 240px;
+}
+

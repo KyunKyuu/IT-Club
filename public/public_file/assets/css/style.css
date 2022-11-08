@@ -4260,8 +4260,12 @@ body, html {
     .bg-login{
         display: none;
     }
-    .form-isi{
-        margin-top: 5rem;
+    .form-isi {
+        margin-top: auto;
         margin-bottom: auto;
+        width: 70% !important;
+    }
+    .form-login{
+        height: 100vh;
     }
 }

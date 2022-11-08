@@ -53,8 +53,8 @@
                     <p>Divisi Programming</p>
                   </div>
                   <div class="col-md-4 down-delay-3">
-                    <img src="{{asset('home_page/img/herdian.jpg')}}" class="mb-3 rounded-circle w-100">
-                    <h5 class="mb-0">Herdian Nuryansyah</h5>
+                    <img src="{{asset('home_page/img/adam.jpg')}}" class="mb-3 rounded-circle w-100">
+                    <h5 class="mb-0">Sulthon Adam M.</h5>
                     <p>Divisi Multimedia</p>
                   </div>
               </div>
