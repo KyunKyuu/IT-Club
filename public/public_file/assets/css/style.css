@@ -4174,7 +4174,8 @@ body, html {
 .form-isi {
     display: flex;
     justify-content: center;
-    margin-top: 65px;
+    /* margin-top: 65px; */
+    align-items: center;
 }
 
 .form-login h2 {
@@ -4255,5 +4256,16 @@ body, html {
     .login-logo {
         margin-left: 25% !important;
         margin-right: 25% !important;
+    }
+    .bg-login{
+        display: none;
+    }
+    .form-isi {
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 70% !important;
+    }
+    .form-login{
+        height: 100vh;
     }
 }

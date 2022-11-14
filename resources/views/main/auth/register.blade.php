@@ -11,9 +11,9 @@
           <div class="form-login col-sm-6">
               <div class="form-isi w-50">
                   <div class="welcome">
-                      <h2>Selamat Datang, <br><span class="line-kuning">Pahlawan</span> !</h2>
-                      <p class="mt-3">Petualangan baru telah menunggu<br>untuk kamu jelajahi</p>
-                      <form class="mt-5 form-content" method="POST" action="#" class="needs-validation" novalidate="" id="register">
+                      <h2>Selamat Datang, <br><span class="line-kuning">di IT Club</span> !</h2>
+                      <p class="mt-3">We Can Change The Future!</p>
+                      <form class="mt-3 form-content" method="POST" action="#" class="needs-validation" novalidate="" id="register">
                           <div class="input-group mb-3 shadow-sm">
                               <span class="input-group-text p-2 border-0" id="basic-addon1"><i
                                       class="fas fa-user"></i></span>
